@@ -168,22 +168,7 @@ Distance          : 0.2277
 Matched Image     : C:\Project\Facerecog\dataset\Angelina Jolie\001_fe3347c0.jpg
 ```
 
-## Dataset
 
-The dataset contains images organized into folders based on the person's name.
-
-For example:
-
-```text
-dataset/
-└── Angelina Jolie/
-    ├── 001_fe3347c0.jpg
-    ├── 002_....jpg
-    ├── 003_....jpg
-    └── ...
-```
-
-The system searches through the available images and finds the closest facial match.
 
 ## Important Notes
 
@@ -203,12 +188,6 @@ The system searches through the available images and finds the closest facial ma
 * Add an "Unknown Person" threshold.
 * Improve performance using optimized embedding storage and retrieval.
 
-## Author
-
-**Manan Jain**
-
-B.Tech Computer Science Engineering
-
-MIT World Peace University (MIT-WPU)
+ Dataset used: https://www.kaggle.com/datasets/bhaveshmittal/celebrity-face-recognition-dataset
 
 
